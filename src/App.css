@@ -84,3 +84,15 @@
   padding: 4px 12px;
   border-radius: 4px;
 }
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.app-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 5%;
+}
